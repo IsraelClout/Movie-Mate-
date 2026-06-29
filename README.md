@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+htmlen">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,4 +39,4 @@ document.getElementById('signupForm').addEventListener('submit', e=>{
 });
 </script>
 </body>
-</html>mU
+</html>
